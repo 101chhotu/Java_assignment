@@ -1,4 +1,4 @@
-class Single_cmd 
+class Multi_cmd
 {
     public static void main(String args[])
   {
